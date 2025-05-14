@@ -8,21 +8,21 @@ This project explores real-world data from Zomato, one of India’s largest rest
 
 ## 📌 Objectives
 
-- Clean and preprocess the dataset for analysis
-- Explore restaurant ratings, pricing, and location-based patterns
-- Analyze service availability (online delivery, table booking)
-- Identify popular cuisines and restaurant chains
-- Visualize consumer behavior trends across different cities
+- Clean and preprocess the dataset for analysis.
+- Explore restaurant ratings, pricing, and location-based patterns.
+- Analyze service availability (online delivery, table booking).
+- Identify popular cuisines and restaurant chains.
+- Visualize consumer behavior trends across different cities.
 
 ---
 
 ## 📊 Key Insights
 
-- Top cities like **Bangalore**, **Delhi NCR**, and **Mumbai** dominate in restaurant presence
-- **Online delivery** is highly preferred in metropolitan areas
-- Restaurants offering **table booking** generally have higher ratings
-- **North Indian**, **Chinese**, and **Fast Food** cuisines are the most popular
-- Chains like **Domino’s** and **Cafe Coffee Day** have a wide presence across cities
+- Top cities like **Bangalore**, **Delhi NCR**, and **Mumbai** dominate in restaurant presence.
+- **Online delivery** is highly preferred in metropolitan areas.
+- Restaurants offering **table booking** generally have higher ratings.
+- **North Indian**, **Chinese**, and **Fast Food** cuisines are the most popular.
+- Chains like **Domino’s** and **Cafe Coffee Day** have a wide presence across cities.
 
 ---
 
