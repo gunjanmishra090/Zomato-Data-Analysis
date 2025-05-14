@@ -2,8 +2,7 @@
 
 Welcome to the **Zomato Data Analysis** project!
 
-This project explores real-world data from Zomato, one of India’s largest restaurant discovery platforms. Through in-depth exploratory data analysis (EDA), we uncover insights into the restaurant landscape, dining habits, and customer preferences in major cities across India. Whether you're a data enthusiast, aspiring analyst, or someone curious about food tech trends—this analysis offers a comprehensive look at how data drives decision-making in the food industry.
-
+This project looks at data from Zomato, one of India’s biggest apps for finding and ordering food. By doing data analysis, we discover interesting facts about restaurants, what people like to eat, how much they spend, and how popular services like online delivery are in different cities. If you're  data enthusiast, aspiring analyst, or someone curious about food tech trends this analysis offers a comprehensive look at how data drives decision-making in the food industry.
 ---
 
 ## 📌 Objectives
