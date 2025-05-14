@@ -2,8 +2,7 @@
 
 Welcome to the **Zomato Data Analysis** project!
 
-This repository contains a comprehensive Exploratory Data Analysis (EDA) of the Zomato dataset. 
-The aim is to extract meaningful insights into restaurant trends, consumer preferences, pricing behavior, and service types, with a special focus on urban regions across India.
+This project explores real-world data from Zomato, one of India’s largest restaurant discovery platforms. Through in-depth exploratory data analysis (EDA), we uncover insights into the restaurant landscape, dining habits, and customer preferences in major cities across India. Whether you're a data enthusiast, aspiring analyst, or someone curious about food tech trends—this analysis offers a comprehensive look at how data drives decision-making in the food industry.
 
 ---
 
