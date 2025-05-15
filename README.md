@@ -40,6 +40,6 @@ Welcome to the **Zomato Data Analysis** project!
 ## 📁 Project Structure
 ```
    ├── zomato_analysis.ipynb   # Jupyter notebook with analysis and visualizations
-   ├── dataset.csv             # (Optional) Zomato dataset (if included)
+   ├── dataset.csv             # Zomato dataset
    └── README.md               # Project documentation
 ```
