@@ -15,7 +15,7 @@ Welcome to the **Zomato Data Analysis** project!
 - Explore restaurant ratings, pricing, and location-based patterns
 - Analyze service availability (online delivery, table booking)
 - Identify popular cuisines and restaurant chains
-- Visualize consumer behavior trends across different cities.
+- Visualize consumer behavior trends across different cities
 
 ---
 
